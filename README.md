@@ -1,12 +1,53 @@
-# React + Vite
+# 🌿 Vise Organic Landing Page Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **landing page clone** of the official [Vise Organic](https://www.viseorganic.com/) website built using **React.js** and **Tailwind CSS**. The project replicates the original site's visual design and responsiveness for educational and frontend development practice purposes.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Original website
+https://www.viseorganic.com/
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🔁 Fully responsive layout
+- 🎨 Clean and modern UI using Tailwind CSS
+- ⚛️ Built with functional React components
+- 🖼️ Background images and gradients
+- 📱 Mobile-friendly design
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **React Icons**
+- **HTML5 + JSX**
+
+---
+
+## 📁 Folder Structure
+vise-organic-clone/
+├── public/
+│ └── images/
+src/
+└── components/
+    ├── Header.jsx
+    ├── HeroSection.jsx
+    ├── AboutSection.jsx
+    ├── ProductSection.jsx
+    ├── HarvestSection.jsx
+    ├── Footer.jsxx
+│ ├── App.js
+│ └── index.js
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+└── README.md
+
+## 👩‍💻 Developer
+Trupti Chandwani
+GitHub: @Trupti_05
+Email: truptichandwani16@gmail.com
