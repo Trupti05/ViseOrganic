@@ -4,8 +4,8 @@ This is a **landing page clone** of the official [Vise Organic](https://www.vise
 
 ---
 
-## 🚀 Live Original website
-https://www.viseorganic.com/
+## 🚀 Live Clone website
+(https://trupti05.github.io/ViseOrganic/)
 
 ---
 
